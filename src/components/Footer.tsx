@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
               {/* <span className="text-2xl font-bold text-white">Nexus</span>
               <span className="text-xl text-orange-400 ml-1">Hackathon</span> */}
                <img
-                src="/assets/Nexus_logo.png"
+                src="/Nexus_logo.png"
                 alt="Nexus Logo"
                 className="h-10 w-auto mr-2"
                 style={{ maxHeight: 40 }}

@@ -8,7 +8,7 @@ const ContactSection: React.FC = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-white-900 mb-4 font-spacegrotesk">Contact Us</h2>
           <div className="w-20 h-1 bg-orange-500 mx-auto mb-6"></div>
-          <p className="text-lg text-gray-600 max-w-3xl mx-auto font-opensans">
+          <p className="text-lg text-gray-100 max-w-3xl mx-auto font-opensans">
             Have questions about Nexus Hackathon 2.0? Our team is here to help!
           </p>
         </div>

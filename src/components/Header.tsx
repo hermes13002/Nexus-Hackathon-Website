@@ -33,7 +33,7 @@ const Header: React.FC = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center">
             <img
-              src="/assets/Nexus_logo.png"
+              src="/Nexus_logo.png"
               alt="Nexus Logo"
               className="h-10 w-auto mr-2"
               style={{ maxHeight: 40 }}
