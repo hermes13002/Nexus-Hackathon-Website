@@ -24,7 +24,7 @@ const ContactSection: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900 mb-1 font-poppins">Email</h4>
-                  <p className="text-gray-700 font-opensans">nexushackathon@spelasu.org</p>
+                  <p className="text-gray-700 font-opensans">soaresayoigbala@gmail.com</p>
                 </div>
               </div>
               
