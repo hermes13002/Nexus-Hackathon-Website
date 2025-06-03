@@ -4,16 +4,16 @@ import { ChevronLeft, ChevronRight, Quote } from 'lucide-react';
 const TestimonialsSection: React.FC = () => {
   const testimonials = [
     {
-      quote: "The Energy Mavericks competed at the NEXUS 1.0 Hackathon, in what seemed like a very challenging contest. It was indeed our very first Hackathon which served as an eye opener as we pushed ourselves to the limit in creating a sustainable energy solution.",
-      author: "Energy Mavericks",
-      role: "Team Member",
-      image: "/gospel_nexus.png"
-    },
-    {
       quote: "Winning Nexus 1.0 was an unforgettable experience. My team built Kukunya, a one-tap security app that alerts nearby hospitals and police with your location and vital info. The hackathon pushed us to move fast, stay sharp, and build something that could save lives. If you're into real-world problem-solving, Nexus is where you want to be. Can’t wait to see what you’ll build!",
       author: "Team Inventus",
       role: "Team Lead",
       image: "/mayowa_nexus.png"
+    },
+    {
+      quote: "The Energy Mavericks competed at the NEXUS 1.0 Hackathon, in what seemed like a very challenging contest. It was indeed our very first Hackathon which served as an eye opener as we pushed ourselves to the limit in creating a sustainable energy solution.",
+      author: "Energy Mavericks",
+      role: "Team Member",
+      image: "/gospel_nexus2.png"
     },
     // {
     //   quote: "Nexus Hackathon provided the perfect platform for our team to develop our idea from concept to prototype. The experience was transformative.",
