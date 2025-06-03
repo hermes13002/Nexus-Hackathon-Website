@@ -23,10 +23,10 @@ const Footer: React.FC = () => {
           </div>
           
           <div className="flex space-x-6 mb-6 md:mb-0">
-            <a href="#" className="text-gray-400 hover:text-white transition-colors transform hover:scale-110">
+            <a href="https://www.instagram.com/reel/DKRm2cGqVJo/?igsh=MXNxejl1YnZ0OWx0dQ==" className="text-gray-400 hover:text-white transition-colors transform hover:scale-110">
               <Instagram className="w-5 h-5" />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white transition-colors transform hover:scale-110">
+            <a href="https://www.linkedin.com/posts/lasu-spe-student-chapter_python-spelasu-aiclub-activity-7334172906983178241-KEqh" className="text-gray-400 hover:text-white transition-colors transform hover:scale-110">
               <Linkedin className="w-5 h-5" />
             </a>
           </div>

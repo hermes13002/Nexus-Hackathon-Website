@@ -24,8 +24,9 @@ const HeroSection: React.FC = () => {
         scale: 1.0,
         scaleMobile: 1.0,
         // color: new THREE.Color().setRGB(1, 1, 1),
-        maxDistance: 20.00,
+        maxDistance: 22.00,
         spacing: 15.0,
+        points: 15.00,
       });
     }
     return () => {

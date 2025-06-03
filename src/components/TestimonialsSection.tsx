@@ -4,10 +4,10 @@ import { ChevronLeft, ChevronRight, Quote } from 'lucide-react';
 const TestimonialsSection: React.FC = () => {
   const testimonials = [
     {
-      quote: "Participating in Nexus Hackathon was a game-changer for my career. The mentorship and networking opportunities were invaluable.",
-      author: "Sarah Johnson",
-      role: "Software Engineer, Previous Participant",
-      image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      quote: "The Energy Mavericks competed at the NEXUS 1.0 Hackathon, in what seemed like a very challenging contest. It was indeed our very first Hackathon which served as an eye opener as we pushed ourselves to the limit in creating a sustainable energy solution.",
+      author: "Team Name: Energy Mavericks",
+      role: "",
+      image: ""
     },
     {
       quote: "The level of innovation I witnessed at Nexus Hackathon was incredible. These students are solving real problems with creative solutions.",

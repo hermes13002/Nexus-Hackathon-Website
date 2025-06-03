@@ -69,7 +69,7 @@ function App() {
       <AboutSection />
       <WhyItMattersSection />
       <TimelineSection />
-      {/* <TestimonialsSection /> */}
+      <TestimonialsSection />
       {/* <SponsorsSection /> */}
       <ContactSection />
       <Footer />
