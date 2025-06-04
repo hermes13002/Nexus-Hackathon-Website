@@ -50,14 +50,21 @@ const ContactSection: React.FC = () => {
               </div>
             </div>
 
-            <div className="mt-8">
+            <div className="mt-8 flex flex-col md:flex-row md:space-x-4 space-y-2 md:space-y-0">
               <a
                 href="https://forms.gle/z258wJh7Vas1W3ZF9"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 rounded-lg font-spacegrotesk font-medium transition-colors shadow-md inline-block"
+                className="bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 rounded-lg font-spacegrotesk font-medium transition-colors shadow-md inline-block text-center"
               >
                 Register Your Team
+              </a>
+              <a
+                href="/assets/Nexus_Hackathon_Guide.pdf" // Update this path if your file is elsewhere
+                download
+                className="bg-white hover:bg-gray-100 text-orange-500 px-6 py-3 rounded-lg font-spacegrotesk font-medium transition-colors shadow-md inline-block border border-orange-500 text-center"
+              >
+                Download Guide
               </a>
             </div>
           </div>

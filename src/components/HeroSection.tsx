@@ -24,7 +24,7 @@ const HeroSection: React.FC = () => {
         scale: 1.0,
         scaleMobile: 1.0,
         // color: new THREE.Color().setRGB(1, 1, 1),
-        maxDistance: 22.00,
+        maxDistance: 20.00,
         spacing: 15.0,
         points: 15.00,
       });
@@ -70,6 +70,13 @@ const HeroSection: React.FC = () => {
               >
                 <span className="relative z-10">Register Your Team</span>
                 {/* <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-blue-600 opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div> */}
+              </a>
+              <a
+                href="https://drive.google.com/drive/folders/1RBu_yvnFR0QdVTZKPMxxtDJUC_XS2Tqd?usp=drive_link" // Update this path to your actual file location
+                download
+                className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-3 font-spacegrotesk rounded-full font-medium transition-all duration-300 shadow-lg transform hover:scale-105 hover:shadow-xl ml-0 md:ml-4"
+              >
+                Download Guide
               </a>
               {/* <button
                 onClick={() => document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' })}

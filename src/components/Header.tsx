@@ -97,14 +97,23 @@ const Header: React.FC = () => {
                 </li>
               ))}
               <li>
-                <a
-                  href="https://forms.gle/z258wJh7Vas1W3ZF9"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="block w-full text-center font-spacegrotesk bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-full transition-colors"
-                >
-                  Register Your Team
-                </a>
+                <div className="flex flex-col space-y-2">
+                  <a
+                    href="https://forms.gle/z258wJh7Vas1W3ZF9"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block w-full text-center font-spacegrotesk bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-full transition-colors"
+                  >
+                    Register Your Team
+                  </a>
+                  <a
+                    href="https://drive.google.com/drive/folders/1RBu_yvnFR0QdVTZKPMxxtDJUC_XS2Tqd?usp=drive_link"
+                    download
+                    className="block w-full text-center font-spacegrotesk bg-white-500 hover:bg-white-600 text-orange-500 px-4 py-2 rounded-full transition-colors border border-orange-500"
+                  >
+                    Download Guide
+                  </a>
+                </div>
               </li>
             </ul>
           </div>
