@@ -8,7 +8,7 @@ const TimelineSection: React.FC = () => {
     {
       icon: <Users className="w-6 h-6" />,
       title: "Registration",
-      date: "June 1 – June 14",
+      date: "June 3 – June 14",
       description: "Form your team and register to participate in Nexus Hackathon 2.0.",
       color: "bg-orange-500"
     },

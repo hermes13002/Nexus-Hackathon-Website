@@ -91,7 +91,7 @@ const HeroSection: React.FC = () => {
               <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMTI4LDEyOG0tMTAyLjQsMGExMDIuNCwxMDIuNCwwLDEsMSwxOTYuOCwxMC4yNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMTAgNSIgc3Ryb2tlLW9wYWNpdHk9IjAuMyIvPjwvc3ZnPg==')] bg-no-repeat bg-center bg-contain opacity-30"></div>
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="text-center">
-                  <h3 className="text-white text-2xl font-bold mb-2">July 12, 2024</h3>
+                  <h3 className="text-white text-2xl font-bold mb-2">July 12, 2025</h3>
                   <p className="text-blue-100">LASU Epe Campus</p>
                 </div>
               </div>
