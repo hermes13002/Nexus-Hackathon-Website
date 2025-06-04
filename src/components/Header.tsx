@@ -43,7 +43,7 @@ const Header: React.FC = () => {
           {/* Desktop Navigation */}
           <nav className="hidden md:block">
             <ul className="flex space-x-8">
-              {['about', 'why', 'timeline', 'testimonials', 'contact'].map((item) => (
+              {['about', 'why', 'timeline', 'testimonials', 'FAQ', 'contact'].map((item) => (
                 <li key={item}>
                   <button
                     onClick={() => scrollToSection(item)}
@@ -86,7 +86,7 @@ const Header: React.FC = () => {
         {isMenuOpen && (
           <div className="md:hidden mt-4 bg-white rounded-lg font-spacegrotesk shadow-lg p-4 absolute left-4 right-4 top-16">
             <ul className="space-y-3">
-              {['about', 'why', 'timeline', 'testimonials', 'contact'].map((item) => (
+              {['about', 'why', 'timeline', 'testimonials', 'FAQ', 'contact'].map((item) => (
                 <li key={item}>
                   <button
                     onClick={() => scrollToSection(item)}

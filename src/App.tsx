@@ -8,6 +8,7 @@ import TestimonialsSection from './components/TestimonialsSection';
 import SponsorsSection from './components/SponsorsSection';
 import ContactSection from './components/ContactSection';
 import Footer from './components/Footer';
+import FaqSection from './components/FaqSection';
 import Particles from "react-tsparticles";
 import { loadSlim } from "tsparticles-slim";
 import type { Container, Engine } from "tsparticles-engine";
@@ -71,6 +72,7 @@ function App() {
       <TimelineSection />
       <TestimonialsSection />
       {/* <SponsorsSection /> */}
+      <FaqSection />
       <ContactSection />
       <Footer />
     </div>
