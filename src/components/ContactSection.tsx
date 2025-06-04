@@ -60,7 +60,7 @@ const ContactSection: React.FC = () => {
                 Register Your Team
               </a>
               <a
-                href="/assets/Nexus_Hackathon_Guide.pdf" // Update this path if your file is elsewhere
+                href="https://drive.google.com/drive/folders/1RBu_yvnFR0QdVTZKPMxxtDJUC_XS2Tqd?usp=drive_link"
                 download
                 className="bg-white hover:bg-gray-100 text-orange-500 px-6 py-3 rounded-lg font-spacegrotesk font-medium transition-colors shadow-md inline-block border border-orange-500 text-center"
               >
