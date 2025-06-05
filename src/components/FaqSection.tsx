@@ -37,10 +37,10 @@ const faqData = [
     question: 'Will there be mentorship or check-ins?',
     answer: 'Yes, selected teams will have check-ins and support during the refinement phase before the final presentation.',
   },
-  {
-    question: 'Where will the final event be held?',
-    answer: 'The final in-person judging and presentation will take place at Army Hall, LASU Epe Campus.',
-  },
+  // {
+  //   question: 'Where will the final event be held?',
+  //   answer: 'The final in-person judging and presentation will take place at Army Hall, LASU Epe Campus.',
+  // },
 ];
 
 
