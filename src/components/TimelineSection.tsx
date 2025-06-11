@@ -15,21 +15,21 @@ const TimelineSection: React.FC = () => {
     {
       icon: <CheckCircle className="w-6 h-6" />,
       title: "Proposal Review",
-      date: "June 15 – 19",
+      date: "June 15 – 16",
       description: "Our panel of experts will review submitted proposals and select teams to move forward.",
       color: "bg-orange-600"
     },
     {
       icon: <Calendar className="w-6 h-6" />,
       title: "Project Refinement",
-      date: "June 20 – 30",
+      date: "June 18 – 29",
       description: "Selected teams will refine their projects with guidance from mentors.",
       color: "bg-orange-500"
     },
     {
       icon: <Award className="w-6 h-6" />,
       title: "Online Judging",
-      date: "July 1",
+      date: "June 30",
       description: "Projects will be evaluated by our panel of judges based on innovation, feasibility, and impact.",
       color: "bg-orange-600"
     },
